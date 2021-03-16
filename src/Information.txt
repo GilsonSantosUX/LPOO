@@ -1,0 +1,23 @@
+LPOO: Linguagem de Programação Orientado a Objetos
+Prof: Ana Karina
+E-mail:anakarina@facom.ufms.br
+
+Data das aulas: Seg,Qua 20:40 ás 22:40
+
+Datas Importantes
+P1:26/04/2021
+P2:14/06/2021
+PO:07/07/2021
+TP:26/06/2021
+
+Aulas Meet
+meet.google.com/oqt-udew-nap
+
+Atividades acontecerão na plataforma URI.
+https://www.urionlinejudge.com.br/judge/pt
+
+Sala do URI da disciplina
+uoj.app/d-7221
+
+Apostila de apoio
+https://www.caelum.com.br/apostila-java-orientacao-objetos/
