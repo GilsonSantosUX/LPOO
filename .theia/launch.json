@@ -4,17 +4,17 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "java",
-      "name": "Debug (Launch) - Current File",
-      "request": "launch",
-      "mainClass": "${file}"
+        "type": "java",
+        "name": "CodeLens (Launch) - Inicio",
+        "request": "launch",
+        "mainClass": "Inicio",
+        "projectName": "LPOO_ac403d8d"
     },
     {
-      "type": "java",
-      "name": "Debug (Launch)-Intro<LPOO_ac403d8d>",
-      "request": "launch",
-      "mainClass": "Intro",
-      "projectName": "LPOO_ac403d8d"
+        "type": "java",
+        "name": "Debug (Launch) - Current File",
+        "request": "launch",
+        "mainClass": "${file}"
     }
-  ]
+]
 }
