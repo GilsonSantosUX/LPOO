@@ -16,37 +16,40 @@ public class Intro{
         qtd = in.nextInt();
         System.out.println();
 
-        for(int i=0;i<qtd;i++){
-            pessoa = new Pessoa();
-            System.out.println("Informe seu nome completo:");
-            pessoa.setNome(in.next());
-            System.out.println("Informe sua idade:");
-            pessoa.setIdade(in.nextInt());
-            System.out.println("Informe seu cpf:");
-            pessoa.setCpf(in.next());
-            lista_pessoas.add(pessoa);
-            System.out.println("==========================");
-        }
-
-        // Gilson
-        // 26
-        // 04391218178
-        // Ghabrielly
-        // 23
-        // 06245333405
+        // for(int i=0;i<qtd;i++){
+        //     pessoa = new Pessoa();
+        //     System.out.println("Informe seu nome completo:");
+        //     pessoa.setNome(in.next());
+        //     System.out.println("Informe sua idade:");
+        //     pessoa.setIdade(in.nextInt());
+        //     System.out.println("Informe seu cpf:");
+        //     pessoa.setCpf(in.next());
+        //     System.out.println("Informe a sua altura:");
+        //     pessoa.setHeight(in.nextDouble());
+        //     System.out.println("Informe o seu peso:");
+        //     pessoa.setWeight(in.nextDouble());
+        //     System.out.println("Informe o sua raça:");
+        //     pessoa.setBreed(in.next());
+        //     System.out.println("Informe seu genero:");
+        //     pessoa.setGenre(in.next());
+        //     lista_pessoas.add(pessoa);
+        //     System.out.println("==========================");
+        // }
 
         in.close();
         System.out.println("==========================");
 
-        boolean cond = lista_pessoas.get(0).equals(lista_pessoas.get(1));
-        
-        System.out.println("Pessoa 1 é igual a Pessoa 2? "+cond);
+        // boolean cond = lista_pessoas.get(0).equals(lista_pessoas.get(1));
 
-        System.out.println(lista_pessoas.size());
+        
+        // System.out.println("Pessoa 1 é igual a Pessoa 2? "+cond);
+
+        // System.out.println(lista_pessoas.size());
 
         for (Pessoa p : lista_pessoas) {
-            System.out.println(p.toString());
+            p.talk("Olá eu sou "+p.getNome());
+            p.talk("Sou do genero "+p.getGenre()+" tenho "+p.getIdade()+" peso "+p.getWeight());
+            // System.out.println(p.toString());
         }
-        
     }
 }

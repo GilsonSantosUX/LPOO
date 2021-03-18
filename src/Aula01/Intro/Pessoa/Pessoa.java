@@ -1,6 +1,8 @@
 package Pessoa;
 
-public class Pessoa {
+import Humano.Humano;
+
+public class Pessoa extends Humano {
     private String nome;
     private int idade;
     private String cpf;
@@ -30,12 +32,15 @@ public class Pessoa {
     }
 
     public Pessoa(String nome, int idade, String cpf) {
+        super();
         this.nome = nome;
         this.idade = idade;
         this.cpf = cpf;
     }
 
-    public Pessoa(){}
+    public Pessoa(){
+        super();
+    }
 
     @Override
     public String toString(){
