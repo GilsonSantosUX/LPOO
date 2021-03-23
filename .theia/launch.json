@@ -5,6 +5,20 @@
   "configurations": [
     {
         "type": "java",
+        "name": "CodeLens (Launch) - ControlFlow",
+        "request": "launch",
+        "mainClass": "ControlFlow",
+        "projectName": "LPOO_ac403d8d"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Start",
+        "request": "launch",
+        "mainClass": "Exercicios.Abstract.Start",
+        "projectName": "LPOO_ac403d8d"
+    },
+    {
+        "type": "java",
         "name": "CodeLens (Launch) - Inicio",
         "request": "launch",
         "mainClass": "Inicio",
