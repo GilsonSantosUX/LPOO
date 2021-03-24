@@ -5,6 +5,13 @@
   "configurations": [
     {
         "type": "java",
+        "name": "CodeLens (Launch) - URI1020",
+        "request": "launch",
+        "mainClass": "Aula03.URI.URI1020",
+        "projectName": "LPOO_ac403d8d"
+    },
+    {
+        "type": "java",
         "name": "CodeLens (Launch) - ControlFlow",
         "request": "launch",
         "mainClass": "ControlFlow",
