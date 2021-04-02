@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T21:23:53.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="J7Xj6j-z_2dCw4S6x4vb" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T21:25:13.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lfzgauAt-L_LPPbsIz8w" version="14.5.3" type="github">
   <diagram id="Rzhv39uRHPJgM1VJzzdm" name="Page-1">
     <mxGraphModel dx="1178" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,8 +61,22 @@
         <mxCell id="fRolGcnS6d_slUNVsV01-21" value="Dependentes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="50" y="460" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fRolGcnS6d_slUNVsV01-22" value="Nome&#xa;Genero&#xa;DataNasc&#xa;Parentesco" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fRolGcnS6d_slUNVsV01-21">
+        <mxCell id="fRolGcnS6d_slUNVsV01-22" value="Nome&#xa;CPF&#xa;Genero&#xa;DataNasc&#xa;Parentesco&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="fRolGcnS6d_slUNVsV01-21">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fRolGcnS6d_slUNVsV01-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRolGcnS6d_slUNVsV01-6" target="fRolGcnS6d_slUNVsV01-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="sourcePoint" />
+            <mxPoint x="520" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fRolGcnS6d_slUNVsV01-24" value="n" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="fRolGcnS6d_slUNVsV01-23">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fRolGcnS6d_slUNVsV01-25" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fRolGcnS6d_slUNVsV01-23">
+          <mxGeometry x="-0.8878" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
