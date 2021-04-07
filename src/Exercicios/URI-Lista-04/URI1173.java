@@ -5,14 +5,11 @@ public class URI1173 {
         Scanner in = new Scanner(System.in);
         int[] vetor = new int[10];
 
-        for(int i=0;i<vetor.length;i++)
-            vetor[i] = in.nextInt();
+        int valor = in.nextInt();
 
         for(int i=0;i<vetor.length;i++){
-            if(vetor[i] <= 0){
-                vetor[i] = 1;
-            }
-        
+            vetor[i] = valor;
+            valor += vetor[i];
         }
 
         for (int i=0;i<vetor.length;i++)

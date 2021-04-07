@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1172",
+            "request": "launch",
+            "mainClass": "URI1172",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1173",
+            "request": "launch",
+            "mainClass": "URI1173",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1174",
+            "request": "launch",
+            "mainClass": "URI1174",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1175",
+            "request": "launch",
+            "mainClass": "URI1175",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1180",
+            "request": "launch",
+            "mainClass": "URI1180",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1181",
+            "request": "launch",
+            "mainClass": "URI1181",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1182",
+            "request": "launch",
+            "mainClass": "URI1182",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1183",
+            "request": "launch",
+            "mainClass": "URI1183",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1187",
+            "request": "launch",
+            "mainClass": "URI1187",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch URI1435",
+            "request": "launch",
+            "mainClass": "URI1435",
+            "projectName": "LPOO_ac403d8d"
+        }
+    ]
+}
