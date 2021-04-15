@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatura",
+            "request": "launch",
+            "mainClass": "Fatura",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
