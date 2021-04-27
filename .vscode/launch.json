@@ -4,7 +4,55 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "Launch ImpostoIRRF",
+            "request": "launch",
+            "mainClass": "ImpostoIRRF",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest7",
+            "request": "launch",
+            "mainClass": "Quest7",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest6",
+            "request": "launch",
+            "mainClass": "Quest6",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest5",
+            "request": "launch",
+            "mainClass": "Quest5",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest4",
+            "request": "launch",
+            "mainClass": "Quest4",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest3",
+            "request": "launch",
+            "mainClass": "Quest3",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest2",
+            "request": "launch",
+            "mainClass": "Quest2",
+            "projectName": "LPOO_ac403d8d"
+        },
         {
             "type": "java",
             "name": "Launch Matriz",
