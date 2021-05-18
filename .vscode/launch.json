@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Heranca",
+            "request": "launch",
+            "mainClass": "Heranca",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
             "name": "Launch ImpostoIRRF",
             "request": "launch",
             "mainClass": "ImpostoIRRF",
