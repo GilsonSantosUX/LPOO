@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Start",
+            "request": "launch",
+            "mainClass": "Start",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
             "name": "Launch Teste",
             "request": "launch",
             "mainClass": "Teste",

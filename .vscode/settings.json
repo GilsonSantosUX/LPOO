@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src/P1",
         "src/Exercicios/Abstract",
+        "src/Aula10/draw",
         "src/Aula09",
-        "src/Aula10/draw"
+        "src/UI"
     ]
 }
