@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "src/UI",
         "src/P1",
         "src/Exercicios/Abstract",
         "src/Aula10/draw",
         "src/Aula09",
-        "src/UI"
+        "src/Trabalho/projetovacina"
     ]
 }
