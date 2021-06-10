@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Excecao",
+            "request": "launch",
+            "mainClass": "Excecao",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Produto",
+            "request": "launch",
+            "mainClass": "Produto",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Colecao",
+            "request": "launch",
+            "mainClass": "Colecao",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
             "name": "Launch Starting",
             "request": "launch",
             "mainClass": "Starting",
