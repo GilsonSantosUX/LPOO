@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Paciente",
+            "request": "launch",
+            "mainClass": "Paciente",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pessoa",
+            "request": "launch",
+            "mainClass": "Pessoa",
+            "projectName": "LPOO_ac403d8d"
+        },
+        {
+            "type": "java",
             "name": "Launch Excecao",
             "request": "launch",
             "mainClass": "Excecao",
