@@ -2,12 +2,10 @@
     "java.project.sourcePaths": [
         "src/UI",
         "src/Trabalho/projetovacina",
-        "src/PrevP2/Q3",
-        "src/PrevP2/Q1",
         "src/P1",
         "src/Exercicios/Abstract",
         "src/Aula10/draw",
         "src/Aula09",
-        "src/PrevP2/Q4"
+        "src/P2"
     ]
 }
